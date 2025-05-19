@@ -16,7 +16,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.cluster import KMeans
 from sklearn.model_selection import train_test_split
 
-# [M1] Module 1: Data Understanding & Descriptive Statistics
+# [M1] Module 1: Data Undcar_erstanding & Descriptive Statistics
 @st.cache_data
 def load_data():
     try:
